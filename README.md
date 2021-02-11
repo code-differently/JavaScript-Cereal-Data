@@ -66,8 +66,6 @@ Remove the dummy data from the previous Activity
 
 ## Activity 4 - Filter Data
 
-### Step 1
-
 Add a search field that will allow the user to filter the main data by *name*
 
 
